@@ -2,12 +2,22 @@
 ## Instructions
 Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
 
+## Week 1
 
-Hit enter TWICE to create a new line.
+### Activity 1
 
+- Try to understand syntax and every part of lines as much as possible
+- Ask peers for help
+- Read all comments, instructions, etc. carefully before committing to any work
+- Add detailed comments to work especially when working with others
 
-- Create bullet points by writing dashes.
-- Here's another bullet point entry.
+### Activity 2
 
-
-Remove all placeholder text in order to get full credit for README file formatting.
+1. 10
+2. 2
+3. Every frame, prints "hello world" to the console
+4. Monobehaviour
+5. Prints "x = 10" to the console
+6. 10 is the argument and is used to call the method with specific entries
+7. Cannot call translate directly with Transform
+8. use the _playerTransform member variable to call Translate
