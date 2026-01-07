@@ -21,3 +21,7 @@ Put each week's activities under new headers like the one shown above. Headers a
 6. 10 is the argument and is used to call the method with specific entries
 7. Cannot call translate directly with Transform
 8. use the _playerTransform member variable to call Translate
+
+### Activity 3
+
+[MG1 breakdown Google doc](https://docs.google.com/document/d/1l_v-lUJcDy0AyYdrUiEx2mTIQQP50WEgMH6YhFn23zE/edit?usp=sharing)
