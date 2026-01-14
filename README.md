@@ -30,3 +30,5 @@ Put each week's activities under new headers like the one shown above. Headers a
 
 ### Activity 1
 
+![IMG_6172](https://github.com/user-attachments/assets/c62decbb-1d1f-4c41-912a-efef48fac5ee)
+
