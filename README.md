@@ -25,3 +25,8 @@ Put each week's activities under new headers like the one shown above. Headers a
 ### Activity 3
 
 [MG1 breakdown Google doc](https://docs.google.com/document/d/1l_v-lUJcDy0AyYdrUiEx2mTIQQP50WEgMH6YhFn23zE/edit?usp=sharing)
+
+## Week 2
+
+### Activity 1
+
