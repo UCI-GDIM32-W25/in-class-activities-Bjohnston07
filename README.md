@@ -32,4 +32,8 @@ Put each week's activities under new headers like the one shown above. Headers a
 
 <img width="2013" height="1268" alt="image" src="https://github.com/user-attachments/assets/8ba68433-3e57-49cb-9340-565a282c8add" />
 
+### Activity 2
 
+[Activity 2 Link](https://github.com/UCI-GDIM32-W25/mg2-Bjohnston07/commit/acc33bef362df660978941d961fa7b74c80dd844)
+
+All required features have been implemented. I tried to add a trigger box that destroys the coins when they leave the screen but couldn't get it to work.
