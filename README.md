@@ -40,4 +40,7 @@ All required features have been implemented. I tried to add a trigger box that d
 
 ## Week 3
 
+### Activity 1
+
+Nolan Burns
 
