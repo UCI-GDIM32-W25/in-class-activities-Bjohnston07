@@ -44,3 +44,7 @@ All required features have been implemented. I tried to add a trigger box that d
 
 Nolan Burns
 
+### Activity 2
+
+<img width="1280" height="720" alt="week3 32 activity 2 " src="https://github.com/user-attachments/assets/9e99108d-fd98-46f6-ae28-93cf2b0291aa" />
+
