@@ -37,3 +37,7 @@ Put each week's activities under new headers like the one shown above. Headers a
 [Activity 2 Link](https://github.com/UCI-GDIM32-W25/mg2-Bjohnston07/commit/acc33bef362df660978941d961fa7b74c80dd844)
 
 All required features have been implemented. I tried to add a trigger box that destroys the coins when they leave the screen but couldn't get it to work.
+
+## Week 3
+
+
