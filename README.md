@@ -55,3 +55,8 @@ Nolan Burns
 - Audrey
 - Nolan
 
+### Activity 1
+
+The objects lose the Locator component only, the last object in the hierarchy kept the script. Through the instance variable and the if statement, it checks and deletes other instances
+of the locator script
+
