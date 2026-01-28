@@ -62,3 +62,6 @@ of the locator script
 
 ### Activity 2
 
+
+<img width="1822" height="1262" alt="w4 inclass breakdown" src="https://github.com/user-attachments/assets/253d037e-d9cc-488c-97e7-3961639d0511" />
+
