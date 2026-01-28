@@ -48,3 +48,10 @@ Nolan Burns
 
 <img width="1280" height="720" alt="week3 32 activity 2 " src="https://github.com/user-attachments/assets/9e99108d-fd98-46f6-ae28-93cf2b0291aa" />
 
+## Week 4
+
+### Activity 0
+
+- Audrey
+- Nolan
+
