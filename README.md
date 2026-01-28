@@ -65,3 +65,10 @@ of the locator script
 
 <img width="1822" height="1262" alt="w4 inclass breakdown" src="https://github.com/user-attachments/assets/253d037e-d9cc-488c-97e7-3961639d0511" />
 
+### Activity 3
+
+[MG4 Start Link](https://github.com/Bjohnston07/HW4/commit/ddffc9a872ac00e82c262752f9cd83d9798137bc)
+
+In this commit I created the project file, the added all of the sprites. Then sliced them, added a ground object, a player object with one of the bird sprites, the started on
+the jumping functionality within a player script.
+
