@@ -72,3 +72,11 @@ of the locator script
 In this commit I created the project file, the added all of the sprites. Then sliced them, added a ground object, a player object with one of the bird sprites, the started on
 the jumping functionality within a player script.
 
+## Week 5
+
+### Activity 1
+
+How the abstract and interface classes are used such as overridable methods that are already named, and simply have to be customized for each class is very efficient. The only
+flaw that I can tell from the design of this system is having numbers like durability being hard coded within the script. It would be nice to know some way to simplify that 
+specific process further. Not having to override a method like Break() for every single object if the only thing changing is one word.
+
