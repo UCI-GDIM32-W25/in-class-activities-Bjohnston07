@@ -80,3 +80,8 @@ How the abstract and interface classes are used such as overridable methods that
 flaw that I can tell from the design of this system is having numbers like durability being hard coded within the script. It would be nice to know some way to simplify that 
 specific process further. Not having to override a method like Break() for every single object if the only thing changing is one word.
 
+### Activity 2
+
+Classes within the demo that represent the model or data would be EnemyStats and Item W5 Demo 2 class. View classes would be the DialogueBubble and InventoryUI classes. Controller
+classes would be PlayerW5Demo2 and EnemyW5Demo2.
+
