@@ -87,6 +87,10 @@ classes would be PlayerW5Demo2 and EnemyW5Demo2.
 
 ### Activity 3
 
-Inheritance are useful to create parent classes for things like characters and the child classes can specify character traits/abilities. State machines are helpful for the
+Scenario 1: The beats could be scriptable objects to easily create different types of beats.
+
+Scenario 2: Inheritance are useful to create parent classes for things like characters and the child classes can specify character traits/abilities. State machines are helpful for the
 different movement and animation types. Events are most likely firing every all the time. Every kill, every round start or game end would invoke events that update things like
-the kill feed, scoreboard or activate certain character abilities that are subscribed to those events.
+the kill feed, scoreboard or activate certain character abilities that are subscribed to those events. 
+
+Scenario 3: State machines could be used the stage of plant growth as well as the state of action the player is in.
