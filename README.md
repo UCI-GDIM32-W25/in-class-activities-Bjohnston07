@@ -85,3 +85,8 @@ specific process further. Not having to override a method like Break() for every
 Classes within the demo that represent the model or data would be EnemyStats and Item W5 Demo 2 class. View classes would be the DialogueBubble and InventoryUI classes. Controller
 classes would be PlayerW5Demo2 and EnemyW5Demo2.
 
+### Activity 3
+
+Inheritance are useful to create parent classes for things like characters and the child classes can specify character traits/abilities. State machines are helpful for the
+different movement and animation types. Events are most likely firing every all the time. Every kill, every round start or game end would invoke events that update things like
+the kill feed, scoreboard or activate certain character abilities that are subscribed to those events.
