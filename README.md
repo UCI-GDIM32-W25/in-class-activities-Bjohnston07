@@ -94,3 +94,9 @@ different movement and animation types. Events are most likely firing every all 
 the kill feed, scoreboard or activate certain character abilities that are subscribed to those events. 
 
 Scenario 3: State machines could be used the stage of plant growth as well as the state of action the player is in.
+
+### Activity 4
+
+Attendence: Brendan Johnston, Nolan Burns, Audrey Hu
+
+[Final Project Proposal: First Draft](https://docs.google.com/document/d/1ol46riGsVF4tNG4s7EXD49n7NhyEQPBzmpgfhnkQLt8/edit?tab=t.0)
