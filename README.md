@@ -134,3 +134,5 @@ Attendence: Brendan Johnston, Nolan Burns, Audrey Hu
 ### Activity 2
 
 Attendence: Brendan Johnston, Nolan Burns, Audrey Hu
+
+[Final Project Proposal: First Draft](https://docs.google.com/document/d/1ol46riGsVF4tNG4s7EXD49n7NhyEQPBzmpgfhnkQLt8/edit?tab=t.0)
