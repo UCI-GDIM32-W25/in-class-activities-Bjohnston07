@@ -130,3 +130,7 @@ Attendence: Brendan Johnston, Nolan Burns, Audrey Hu
 - Set with red dot left of line number
 - Pauses unity before error is ran
 - Call stack list used to see what methods were called before leading up to breakpoint
+
+### Activity 2
+
+Attendence: Brendan Johnston, Nolan Burns, Audrey Hu
