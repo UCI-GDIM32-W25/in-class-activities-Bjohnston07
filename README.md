@@ -106,3 +106,27 @@ State machines could be used the stage of plant growth as well as the state of a
 Attendence: Brendan Johnston, Nolan Burns, Audrey Hu
 
 [Final Project Proposal: First Draft](https://docs.google.com/document/d/1ol46riGsVF4tNG4s7EXD49n7NhyEQPBzmpgfhnkQLt8/edit?tab=t.0)
+
+## Week 6
+
+### Activity 1
+
+#### Profiler
+
+- If there's a situation where the game is running poorly, the profiler can identify what method is causing it
+- window -> analysis -> profiler
+- Keep get component out of update
+- Don't use unnecessary colliders
+- Test itch especially for web builds
+
+#### Gizmos
+
+- Can draw lines to see where objects are facing and what direction they are moving
+- onDrawGizmos() and used draw colliders to ensure colliders are visible in editor
+- Gizmos only visible in scene view
+
+#### Breakpoints
+
+- Set with red dot left of line number
+- Pauses unity before error is ran
+- Call stack list used to see what methods were called before leading up to breakpoint
