@@ -154,3 +154,13 @@ Attendence: Brendan Johnston, Nolan Burns, Audrey Hu
 
 <img width="2117" height="1108" alt="image" src="https://github.com/user-attachments/assets/bffe5bbf-e82e-4cf7-8cae-359cee087403" />
 
+### Activity 4
+
+[Trello Link](https://trello.com/b/qln8TXwg/gdim-32-final)
+
+### Activity 5
+
+[Commit Link](https://github.com/lindenreid/GDIM32-Final/commit/229e06c931f36240381673b032478568e6b24a6c)
+
+I first created a new scene with my name on it for testing in order to prevent merge conflicts. Then created a ground and player rectangle, attached the camera to it, and 
+started working on a player script to get the camera working with the mouse.
