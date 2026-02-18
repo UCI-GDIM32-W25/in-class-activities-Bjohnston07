@@ -136,3 +136,19 @@ Attendence: Brendan Johnston, Nolan Burns, Audrey Hu
 Attendence: Brendan Johnston, Nolan Burns, Audrey Hu
 
 [Final Project Proposal: First Draft](https://docs.google.com/document/d/1ol46riGsVF4tNG4s7EXD49n7NhyEQPBzmpgfhnkQLt8/edit?tab=t.0)
+
+## Week 7
+
+### Activity 1
+
+- Raycast used to identify objects in a max range
+- Raycasts have a point of origin, direction, and range
+- If collided with an object with player tag, enter pursue state using finite state machine, ensures that other objects like trees block the line of sight or raycast
+- Sphere cast in front of the duck to ensure it doesn't run into obstacles
+
+### Activity 2
+
+Attendence: Brendan Johnston, Nolan Burns, Audrey Hu
+
+### Activity 3
+
