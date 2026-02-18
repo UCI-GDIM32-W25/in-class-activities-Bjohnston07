@@ -152,3 +152,5 @@ Attendence: Brendan Johnston, Nolan Burns, Audrey Hu
 
 ### Activity 3
 
+<img width="2117" height="1108" alt="image" src="https://github.com/user-attachments/assets/bffe5bbf-e82e-4cf7-8cae-359cee087403" />
+
