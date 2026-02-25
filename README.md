@@ -164,3 +164,25 @@ Attendence: Brendan Johnston, Nolan Burns, Audrey Hu
 
 I first created a new scene with my name on it for testing in order to prevent merge conflicts. Then created a ground and player rectangle, attached the camera to it, and 
 started working on a player script to get the camera working with the mouse.
+
+## Week 8
+
+### Activity 1
+
+- Rendering pipeline is instructions for how a game will be drawn to the screen
+- Need to ensure assets from the unity store are made with the same rendering pipeline we are using
+- edit > project settings > graphics, is scriptable field is empty, using built in pipeline
+- Post processing effects are shaders that effect the whole screen
+- Need to install post processing package in package manager
+- Can find effects on the asset store
+- Cite Assets
+
+### Activity 2
+
+Attendence: Brendan Johnston, Nolan Burns, Audrey Hu
+
+### Activity 3
+
+Goal: Mess around with movement, the camera, and colliders as well as the intuitiveness
+Playtest Notes:
+- 
