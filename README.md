@@ -185,4 +185,11 @@ Attendence: Brendan Johnston, Nolan Burns, Audrey Hu
 
 Goal: Mess around with movement, the camera, and colliders as well as the intuitiveness
 Playtest Notes:
-- 
+- slow movement
+- Finish rest of the quest
+- Colliders seem fine
+- Bug with climbing on manager
+- Likes animations
+- Smooth  movement
+- Knife phasing through things
+- Fix outside, take away walls
