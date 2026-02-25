@@ -193,3 +193,13 @@ Playtest Notes:
 - Smooth  movement
 - Knife phasing through things
 - Fix outside, take away walls
+
+### Activity 4
+
+Task: Set up ingredient class
+
+### Activity 5
+
+[Commit Link](https://github.com/prettypinkanteater/GDIM32-Final/commit/60ac0b38123b415f0ee436d8d28d0cf32033ead7)
+
+Pair programmed with Audrey to figure out a solution for knife rotation on pickup. Also created an ingredient item child class
