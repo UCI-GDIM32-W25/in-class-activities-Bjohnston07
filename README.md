@@ -203,3 +203,39 @@ Task: Set up ingredient class
 [Commit Link](https://github.com/prettypinkanteater/GDIM32-Final/commit/60ac0b38123b415f0ee436d8d28d0cf32033ead7)
 
 Pair programmed with Audrey to figure out a solution for knife rotation on pickup. Also created an ingredient item child class
+
+### Week 9
+
+### Activity 1
+
+- use scriptable objects for easy scaling
+- Dialogue trees based aroudn a start node
+- With multiple NPC's, use a separate dialogue controller 
+- This keeps track fo the active node 
+
+### Activity 2
+
+Attendence: Brendan Johnston, Nolan Burns, Audrey Hu
+
+### Activity 3
+
+Goals: Does the manager have acceptable colliders 
+Is the sensitivity and movement good
+
+- UI looks good
+- A little unclear to get the potato first
+- Sensitivity still high
+- Controls are smoothe enough
+- counter collider could be slightly larger
+- You can fit between the machines
+
+### Activity 4
+
+We seem to be within scope and about 50% through the project. Being at the check in point, this seems to be about right or better than where we should be.
+
+### Activity 5
+
+[Commit Link](https://github.com/prettypinkanteater/GDIM32-Final/commit/d9e796cd021878bef691374ee8ef74d0f82c7cf8)
+
+I worked on changing the camera masks dynamically so that when holding no objects, the second camera is turned off and when you are holding an object, it tursn on so the object you are holding
+can render over objects.
