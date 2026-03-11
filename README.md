@@ -204,7 +204,7 @@ Task: Set up ingredient class
 
 Pair programmed with Audrey to figure out a solution for knife rotation on pickup. Also created an ingredient item child class
 
-### Week 9
+## Week 9
 
 ### Activity 1
 
@@ -239,3 +239,32 @@ We seem to be within scope and about 50% through the project. Being at the check
 
 I worked on changing the camera masks dynamically so that when holding no objects, the second camera is turned off and when you are holding an object, it tursn on so the object you are holding
 can render over objects.
+
+## Week 10
+
+### Activity 1
+
+Attendence: Brendan Johnston, Nolan Burns, Audrey Hu
+
+### Activity 2
+
+Goal: To test the functionality of our implementation of quest progress tracking.
+
+Notes:
+- make e to advance dialogue more evident 
+- give npcs name tags
+- fix sphere cast for timmy’s tray 
+- give more info for fry quest even in marriage insults
+- not let the player get so close to the windows
+
+### Activity 3
+
+We have completely finished the first quest to make the fries with the framework set for the second quest as the same sequencing and logic will be used. We are in scope and
+finishing is feasable
+
+### Activity 4
+
+[Commit Link](https://github.com/prettypinkanteater/GDIM32-Final/commit/54b300a3ca2f013958482c7e6d8b4dd8df61f707)
+
+Fixes an issue where the prompt to put down the cooked fries onto Timmy's tray wasn't showing up consistently. The collider for the cooked fries you are carrying never turned
+off so it was cluttering the SphereCastAll
